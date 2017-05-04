@@ -1,0 +1,147 @@
+#cause and effect @ n
+therefore
+as a result
+consequently
+as a consequence
+hence
+thus
+conclusively
+in conclusion
+inevitably
+because
+since
+as
+thereby
+because of
+as a resault of
+due to
+leading to
+owning to
+#comparison @ n
+likewise
+similarly
+in the same way
+as
+like
+similar to
+#contrast in expectation @ o  
+however
+nevertheless
+yet
+still
+on the contrary
+unfortunately
+originally
+surprisingly
+ideally
+apperently
+although
+even though
+though
+despite the fact
+but
+despite
+despite of
+in spite of
+#contrast in comparison @ o
+additionally
+on the other hand
+in contrast
+conversely
+while
+whereas 
+unlike
+#contrast in action @ a
+instead
+instead of
+#emphasis @ a
+in fact
+indeed
+as a matter of fact
+that is
+essentially
+interetingly
+fortunately
+inevitably
+#clarification @ n
+in other words
+that is
+summing up
+to sum up
+in summary
+i.e.
+#generalization @ n
+in general
+generally
+generally speaking
+in a broader contex
+in a broader perspective
+#specialization @ n
+in particular
+particulary
+specifically
+#additional information @ n
+moreover
+besides
+in addition
+furthermore
+in addition to
+besides
+#continuation of explanation @ n
+in this contex
+in this Connection
+in this respect
+with
+in this perspective
+here
+#condition @ n
+in that case
+when
+otherwise
+while
+now
+until
+given
+as long as
+now that
+once that
+if
+provided that
+#without condition @ o
+regardless
+despite 
+even though 
+regardless of
+despite of
+#example @ n
+for example
+for instance
+as shown by
+as as exemplified by
+as illustrated by 
+exemplified by
+ilustrated by
+shown by
+be it 
+like
+such as
+e.g.
+#qualification @ n
+and
+At least
+#ordering @ a
+first second
+then
+next
+now
+continuing
+further
+finally
+before
+after 
+#reintroduction @ n
+regarding
+for
+in connection with
+focusing on
+With respect to
